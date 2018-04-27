@@ -1,0 +1,195 @@
+html {
+	
+
+position:static;
+	min-width:80em;
+}
+body {
+	
+	margin:0;
+	background-image: url("stars.gif");
+	background-color: black;
+	color:white;
+}
+
+
+
+
+
+@font-face {
+    font-family: CustomFont;
+    src: url(abyssopelagic.otf);
+}
+
+
+
+#topbar {
+	
+	margin-top:px;
+	margin-left:0px;
+	margin-right:0px;
+	background: #242324;
+	height: 5.5em;
+	
+	
+	
+
+    color:white;
+	
+    
+	
+}
+
+#Logo {
+	position:static;
+	min-width:80em;
+	margin-top:-15px;
+	margin-left:80px;
+	margin-right:0px;
+	
+	
+    
+	
+}
+
+#Spaceship {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+	
+    
+	
+}
+
+
+#topbar2 {
+	margin-top:0px;
+	margin-left:0px;
+	margin-right:0px;
+	background: #000000;
+	height: 1.3em;
+	
+	font-size: 2em;
+	
+    color:white;
+	
+    
+	
+}
+
+#buttons {
+	position:static;
+	min-width:80em;
+	
+	font-size: 1em;
+
+	margin-top:-62px;
+	text-align: center;
+	margin-left:0px;
+	margin-right:100px;
+	color:white;
+    text-decoration: none;
+	
+
+
+
+}
+
+#Bodytext{
+
+	font-family: CustomFont;
+	letter-spacing: 2px;
+	margin-left:200px;
+	margin-right:200px;
+	text-align:center;
+}
+a.one:link {
+    color: white;
+    text-decoration: none;
+}
+
+/* visited link */
+a.one:visited {
+    color: white;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a.one:hover {
+    color: white;
+    border-bottom: 2px solid;
+    border-bottom-color: green;
+}
+
+
+/* selected link */
+a.one:active {
+    color: blue;
+    text-decoration: none;
+}
+
+
+
+a.logo:link {
+    color: white;
+    text-decoration: none;
+}
+
+/* visited link */
+a.logo:visited {
+    color: white;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a.logo:hover {
+    color: white;
+}
+
+
+/* selected link */
+a.logo:active {
+    color: blue;
+    text-decoration: none;
+}
+
+
+#welcome {
+	color:white;
+	font-family: CustomFont;
+	text-align: center;
+
+}
+
+#columns {
+	margin-top:20em;
+	width: 100%;
+	
+}
+
+#C1 {
+	vertical-align: top;
+	width: 35%;
+	
+
+}
+
+#C2 {
+	
+	vertical-align: top;
+	width: 65%;
+	
+
+}
+
+#contact{
+	text-align: center;
+	margin-left:50px;
+	margin-right:50px;
+	color:black;
+   
+
+
+
+}
